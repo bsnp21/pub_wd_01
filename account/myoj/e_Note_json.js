@@ -30173,7 +30173,7 @@ var _bnotes=
             "26": "",
             "27": "",
             "28": "",
-            "29": "<ol><li>Pharisees, teachers, Jewish, circumcision.</li><li>earn praise fr God not man.</li><li><br></li></ol>"
+            "29": "<ol><li>Pharisees, teachers, Jewish, circumcision.</li><li>earn praise fr God not man.</li><li>Those who took position of teaching is more likely to be Pharisees.</li></ol>"
         },
         "3": {
             "1": "<ol><li>Jewish is selected by God. circumcision is a covenant between God and Abraham. </li></ol>",
