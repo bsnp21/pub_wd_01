@@ -30172,7 +30172,7 @@ var _bnotes=
             "25": "",
             "26": "",
             "27": "",
-            "28": "",
+            "28": "<ol><li>Jew = Christian.</li></ol>",
             "29": "<ol><li>Pharisees, teachers, Jewish, circumcision.</li><li>earn praise fr God not man.</li><li>Those who took position of teaching in church is more likely to be Pharisees.</li><li><br></li></ol>"
         },
         "3": {
