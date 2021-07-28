@@ -32242,7 +32242,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "<ol><li>The prediction of Paul for himself that we see today as part of the nt. </li></ol>",
             "9": "",
             "10": "",
             "11": "",
