@@ -30290,7 +30290,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "<ol><li>Unless Paul told us the war between the flesh and spirit, we do not know the war and we are unwittingly the slavery of the flesh.</li></ol>",
             "8": "",
             "9": "",
             "10": "",
