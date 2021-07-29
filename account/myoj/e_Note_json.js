@@ -2,7 +2,7 @@ var _bnotes=
 {
     "Gen": {
         "1": {
-            "1": "<ol><li>Jhn1:1 </li><li> Background service. </li><li>Test</li></ol>",
+            "1": "<ol><li>Jhn1:1 </li><li> Background service. </li><li>Elohim is Plural form, not only means the triune, but also means God is relational God. </li></ol>",
             "2": "<ol><li>Water analog to trinity. </li><li>formless Jhn1:1</li><li>invisible</li><li>Jesus walked on waters. (Mat14:26) (Mak6:48) (Jhn6:19) </li><li>Triune: God, Spirit and Jesus. </li></ol>",
             "3": "\n<ol>\n\t<li>in Pro8:30. God said, Jesus finished. Spirit is light.&nbsp;</li>\n\t<li>we plural&nbsp;</li>\n\t<li>&nbsp;light is Jesus&nbsp;</li>\n\t<li>&nbsp;spirit over water Gen1:2 and Mat14:25</li>\n\t<li>uu</li>\n</ol>\n",
             "4": "<ol><li>--</li></ol>",
