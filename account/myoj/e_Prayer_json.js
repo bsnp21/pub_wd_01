@@ -28234,7 +28234,7 @@ var _bnotes=
             "28": "",
             "29": "<ol><li>O Lord, you know that you are my dearest sincere friend.</li><li>We are also your friends too. </li><li>In this clear tranquil morning, when we hear your voice, we are full of joy. </li><li>As long as you are with me, the joy is mine, it is now complete. </li><li>May You the Lord become greater among us, be greater among our country, among the world, among the flooding times, the pandemic era. </li><li>May our yesterday become less. May our old culture become less and less, old mine less and less.</li></ol>",
             "30": "",
-            "31": "",
+            "31": "<ol><li>O Lord, you are above all of all. </li><li>May all nations praise you, stand on knees to worship you. </li><li>May glory fill out you. </li><li>We give thanks to you. </li></ol>",
             "32": "",
             "33": "",
             "34": "",
