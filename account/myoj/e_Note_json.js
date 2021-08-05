@@ -25148,7 +25148,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "<ol><li>It's proper to fulfill all righteousness. </li></ol>",
+            "15": "<ol><li>It's proper to fulfill all righteousness. </li><li>All ritual can be used to fulfill all rightrous.</li></ol>",
             "16": "",
             "17": "<ol><li>God love Jesus and love his bride more. </li></ol>"
         },
