@@ -28356,7 +28356,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "<ol><li><a id=\"NIV_Jhn_6_10\" class=\"tx txNIV hiliVrsTxt\" style=\"color: rgb(255, 255, 255);\"> \"Have the people sit down.\" T</a></li></ol>",
             "11": "",
             "12": "<ol><li>We are filled with your abondant providence. Do not let us waste it. Let us spread to my neighbors. Let us gather up in our heart. </li></ol>",
             "13": "",
