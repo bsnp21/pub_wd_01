@@ -28348,7 +28348,7 @@ var _bnotes=
         },
         "6": {
             "1": "",
-            "2": "",
+            "2": "<ol><li>zai wo shen shang, zuo wei ke wei. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
