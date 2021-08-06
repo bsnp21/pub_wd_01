@@ -28358,7 +28358,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "<ol><li><a id=\"NIV_Jhn_6_12\" class=\"tx txNIV\" style=\"color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);\">\"Gather the pieces that are left over. Let nothing be wasted.\"</a></li></ol>",
             "13": "",
             "14": "<ol><li>in 4-gospels</li></ol>",
             "15": "",
