@@ -28358,7 +28358,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "<ol><li>We are filled with your abondant providence. Do not let us waste it. Let us spread to my neighbors. Let us gather up in our heart. </li></ol>",
             "13": "",
             "14": "",
             "15": "",
