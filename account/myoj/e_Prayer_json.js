@@ -30194,7 +30194,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
+            "19": "<ol><li>\"To the Jews I became like a Jew, to win the Jews. To those under the law I became like one under the law (though I myself am not under the law), so as to win those under the law.\" (1Co9:20 NIV) \"To those not having the law I became like one not having the law (though I am not free from God's law but am under Christ's law), so as to win those not having the law.\" (1Co9:21 NIV)</li></ol>",
             "20": "",
             "21": "",
             "22": "",
