@@ -30176,7 +30176,7 @@ var _bnotes=
             "29": "<ol><li>Pharisees, teachers, Jewish, circumcision.</li><li>earn praise fr God not man.</li><li>Those who took position of teaching in church is more likely to be Pharisees.</li><li><br></li></ol>"
         },
         "3": {
-            "1": "<ol><li>Jewish is selected by God. circumcision is a covenant between God and Abraham. </li><li>Religion = Law + Ritual + Behavior</li></ol>",
+            "1": "<ol><li>Jewish is selected by God. circumcision is a covenant between God and Abraham. </li><li>Religion = Law + Ritual + Behavior</li><li>Jesus was not to abort the religion but transcend the religion.</li></ol>",
             "2": "<ol><li>OT and NT. Testimony of God's mission.</li></ol>",
             "3": "<ol><li>It's faithful not affection of infaith of Jesus. </li><li>If Jewish did not believe in Jesus, why should we believe in Him? In 2019, 2% Jews are Christians. </li><li>Christians' behavior is bad, why should I believe in Christ?</li></ol>",
             "4": "<ol><li>God is true, man is liar. Church is true, human cultures are liars. </li><li>When Jesus blame Pharisees, it shows his righteousness because everything He said is turh.</li><li>When Jesus is judged, He name is glorified. The son of God, the son of Man. </li></ol>",
