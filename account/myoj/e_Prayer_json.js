@@ -30194,7 +30194,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "<ol><li>\"To the Jews I became like a Jew, to win the Jews. To those under the law I became like one under the law (though I myself am not under the law), so as to win those under the law.\" (1Co9:20 NIV) \"To those not having the law I became like one not having the law (though I am not free from God's law but am under Christ's law), so as to win those not having the law.\" (1Co9:21 NIV)</li><li>\"But when the time had fully come, God sent his Son, born of a woman, born under law,\" (Gal4:4 NIV)</li></ol>",
+            "19": "<ol><li>\"To the Jews I became like a Jew, to win the Jews. To those under the law I became like one under the law (though I myself am not under the law), so as to win those under the law.\" (1Co9:20 NIV) \"To those not having the law I became like one not having the law (though I am not free from God's law but am under Christ's law), so as to win those not having the law.\" (1Co9:21 NIV)</li><li>\"But when the time had fully come, God sent his Son, born of a woman, born under law,\" (Gal4:4 NIV)</li><li>\"who has saved us and called us to a holy life -- not because of anything we have done but because of his own purpose and grace. This grace was given us in Christ Jesus before the beginning of time,\" (2Ti1:9 NIV)</li></ol>",
             "20": "",
             "21": "",
             "22": "",
