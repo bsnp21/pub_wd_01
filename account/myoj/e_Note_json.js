@@ -30200,7 +30200,7 @@ var _bnotes=
             "22": "<ol><li>The righteousness is not to follow the law. But to believe Jesus, pray for Him. </li></ol>",
             "23": "",
             "24": "",
-            "25": "<ol><li>atonement</li></ol>",
+            "25": "<ol><li>atonement: propitiation of God by blood.</li><li>redemption: exchange from the world. </li></ol>",
             "26": "<ol><li>People is What you trust. </li></ol>",
             "27": "<ol><li>To compensate the sin by law? Or by faith. </li><li>Reduce punishment by law. (Determined by other people)</li><li>To be righteous by faith. (Determined by God)</li></ol>",
             "28": "<ol><li>An important Conclusion. </li></ol>",
