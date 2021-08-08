@@ -30308,7 +30308,7 @@ var _bnotes=
             "22": "",
             "23": "",
             "24": "<ol><li>fo: endless infliction.</li></ol>",
-            "25": "<ol><li>trust on Him.</li></ol>"
+            "25": "<ol><li>trust on Him. focus on Jesus not sinful flesh.</li><li>we will fail to face sin. Rely on Him - He will win. </li></ol>"
         },
         "8": {
             "1": "",
