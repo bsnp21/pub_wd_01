@@ -30307,7 +30307,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "<ol><li>fo: endless infliction.</li></ol>",
             "25": "<ol><li>trust on Him.</li></ol>"
         },
         "8": {
