@@ -26847,7 +26847,7 @@ var _bnotes=
             "69": "",
             "70": "",
             "71": "",
-            "72": "<ol><li>I admit in front of u, I am sinner belong to Flesh and weakness </li><li>Flesh love. I want right but cannot do, </li><li>I denied u many times more than two times. </li><li>I didn’t deny myself </li><li>How u love me, let me love others. </li><li>Pray your Mercy grace</li><li>Hold our hands make, me close to u. </li><li>Train us how to stand firmly and how to love gently. </li></ol>"
+            "72": "<ol><li>I admit in front of u, I am sinner belong to Flesh and weakness </li><li>\"For the good that I would I do not: but the evil which I would not, that I do.\" <a href=\"#Rom7:19\">Rom7:19</a></li><li>I denied u many times more than two times. </li><li>I didn’t deny myself = deny u</li><li>How u love me, let me love others. </li><li>Pray your Mercy grace</li><li>Hold our hands make, me close to u. </li><li>Train us how to stand firmly and how to love gently. </li></ol>"
         },
         "15": {
             "1": "",
