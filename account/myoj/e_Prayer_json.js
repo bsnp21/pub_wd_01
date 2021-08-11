@@ -26847,7 +26847,7 @@ var _bnotes=
             "69": "",
             "70": "",
             "71": "",
-            "72": "<ol><li>I belong to Flesh and weakness </li><li>Flesh love.</li><li>I denied u many times more than two times. </li><li>I didn’t deny myself </li><li>How u love me, let me love others. </li><li><br></li></ol>"
+            "72": "<ol><li>I belong to Flesh and weakness </li><li>Flesh love.</li><li>I denied u many times more than two times. </li><li>I didn’t deny myself </li><li>How u love me, let me love others. </li><li>Pray your Mercy grace</li><li>Hold our hands make me close to u. </li></ol>"
         },
         "15": {
             "1": "",
