@@ -14381,7 +14381,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "<ol><li>The Lord, you know my heart and soul and mind. </li><li><br></li></ol>",
+            "10": "<ol><li>The Lord, you know my heart and soul and mind. </li><li>\"The third time he said to him, \"Simon son of John, do you love me?\" Peter was hurt because Jesus asked him the third time, \"Do you love me?\" He said, \"Lord, you know all things; you know that I love you.\"\" (Jhn21:17 NIV)</li><li><br></li></ol>",
             "11": "",
             "12": "",
             "13": "",
