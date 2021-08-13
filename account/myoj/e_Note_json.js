@@ -14381,7 +14381,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "<ol><li>A golden rule in OT: sin always leads to judgement (punishments)</li><li>Job has infliction, he must be sinned. </li><li><br></li></ol>",
             "11": "",
             "12": "",
             "13": "",
