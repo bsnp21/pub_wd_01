@@ -14381,7 +14381,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "<ol><li>The Lord, you know my heart and soul and mind. </li><li><br></li></ol>",
             "11": "",
             "12": "",
             "13": "",
