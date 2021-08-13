@@ -14381,7 +14381,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "<ol><li>An old golden rule in OT: sin always leads to judgement (punishments)</li><li>Eliphaz:Job has infliction, he must be sinned. </li><li>Job: break the golden rule. Sin usually leads to judgement but not always. </li><li>Job is innocent. Jesus is righteous. Scapegoat. </li><li><br></li></ol>",
+            "10": "<ol><li>An old golden rule in OT: sin always leads to judgement (punishments)</li><li>Eliphaz:Job has infliction, he must be sinned. </li><li>Job: break the golden rule. Sin usually leads to judgement but not always. </li><li>Job is innocent. Jesus is righteous. Scapegoat. </li><li>\"\"Neither this man nor his parents sinned,\" said Jesus, \"but this happened so that the work of God might be displayed in his life.\" (Jhn9:3 NIV)</li></ol>",
             "11": "",
             "12": "",
             "13": "",
