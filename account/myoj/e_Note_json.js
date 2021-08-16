@@ -28161,7 +28161,7 @@ var _bnotes=
             "35": "",
             "36": "",
             "37": "",
-            "38": "<br>",
+            "38": "<div><br></div><div>1. Jesus's First Question==God's First Question in Gen</div><div><br></div>",
             "39": "",
             "40": "",
             "41": "",
