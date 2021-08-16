@@ -28157,7 +28157,7 @@ var _bnotes=
             "31": "",
             "32": "",
             "33": "",
-            "34": "",
+            "34": "<ol><li>Thank the lord — open my eyes to know you, your glory. </li><li>I would not have known you. Thank you for choosing me to know you. </li><li>Glory is yours.</li><li><br></li></ol>",
             "35": "",
             "36": "",
             "37": "",
