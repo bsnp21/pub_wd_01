@@ -28157,7 +28157,7 @@ var _bnotes=
             "31": "",
             "32": "",
             "33": "",
-            "34": "",
+            "34": "<ol><li>John baptism vision</li><li>Humility </li><li>Shameless in public</li><li>Gory to the lord</li><li>Food/housing.  </li></ol>",
             "35": "",
             "36": "",
             "37": "",
