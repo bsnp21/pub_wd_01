@@ -28711,7 +28711,7 @@ var _bnotes=
             "28": "",
             "29": "",
             "30": "",
-            "31": "",
+            "31": "<ol><li><li>Where, O death, is your victory? Where, O death, is your sting?\"\" (1Co15:55 NIV) </li><li></li></li></ol>",
             "32": "",
             "33": "",
             "34": "",
