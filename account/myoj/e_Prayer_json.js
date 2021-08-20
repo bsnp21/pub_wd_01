@@ -25341,7 +25341,7 @@ var _bnotes=
             "6": "",
             "7": "",
             "8": "",
-            "9": "",
+            "9": "<ol><li>Obedience. </li><li>Jesus = spirit. Spiritual call. </li><li>I am a sinner. </li></ol>",
             "10": "",
             "11": "",
             "12": "",
