@@ -28782,7 +28782,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "<ol><li>Pray you Jesus be in me.</li></ol>",
             "11": "<ol><li>ni zai wo shen, zuo wei ke wei.</li></ol>",
             "12": "",
             "13": "",
