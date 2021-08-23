@@ -28787,7 +28787,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "<ol><li>I am willing to abide by your word.</li><li>please give me the strength to be able to follow you.</li><li>I love you Jesus.</li><li><br></li></ol>",
+            "15": "<ol><li>I am willing to abide by your word.</li><li>please give me the strength to be able to follow you.</li><li>I love you Jesus.</li><li>We always failed, we always are misled in the world. </li></ol>",
             "16": "",
             "17": "",
             "18": "",
