@@ -28161,7 +28161,7 @@ var _bnotes=
             "35": "",
             "36": "",
             "37": "",
-            "38": "Jesus's First Question==God's First Question in Gen.&lt;font color='red'&gt;Gen&lt;/font&gt;&nbsp;",
+            "38": "Jesus is my  true Rabbi. ",
             "39": "",
             "40": "",
             "41": "",
