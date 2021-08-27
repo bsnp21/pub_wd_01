@@ -29243,7 +29243,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "<ol><li>Let us speak with wisdom and Spirit. </li><li>resist the evil around the world, the glory of world, </li><li>the face like the face of angel.</li><li>not shame of the Gospel. </li><li>give us the strength.</li></ol>",
             "11": "",
             "12": "",
             "13": "",
